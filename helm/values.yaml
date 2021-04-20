@@ -1,5 +1,5 @@
 MSR:
-  FQDN: <image registry dynamic DNS>
+  FQDN: ec2-18-156-82-103.eu-central-1.compute.amazonaws.com
   port: 4443
 
 DB:
